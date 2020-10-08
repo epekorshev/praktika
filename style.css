@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@1,400;1,700&display=swap');
+   
+body {
+    font-family: 'Tinos', serif;
+    background:  url(https://mir-s3-cdn-cf.behance.net/projects/original/08d53492880429.Y3JvcCwxMjMxLDk2MywxMzQsNzY.gif);
+padding:  100px 0;
+}
+
+.conteiner{
+    width: 800px;
+    min-height:800px;
+    border: 4px solid rgb(57, 24, 179);
+    margin:  0 auto;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0.6811099439775911) 9%, rgba(9,9,121,0.6671043417366946) 30%, rgba(9,47,209,0.5998774509803921) 100%);
+}
